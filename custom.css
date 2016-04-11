@@ -1,0 +1,18 @@
+.code-output{
+    padding: 1rem;
+    border: none;
+    font-family: 'PT Mono', monospace;
+    font-size: 11px;
+    background: #ccc;
+    white-space: pre-wrap;
+    line-height: 1.5em;
+    word-wrap: break-word;
+    color: #000;
+}
+
+.freeDel {margin: 0 0 0;}
+
+li.customers-header {
+    font-size: 16px;
+    color: #00AEF0;
+}
